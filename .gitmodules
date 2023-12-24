@@ -1,0 +1,6 @@
+[submodule "01-Frontend/unirent"]
+	path = 01-Frontend/unirent
+	url = https://github.com/Reinharl/Frontend-Uni-Rent.git
+[submodule "02-Backend/unirent"]
+	path = 02-Backend/unirent
+	url = https://github.com/Reinharl/Backend-Uni-Rent.git
